@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/Users/jacegu/Desarrollo/general_12m12k/Marzo-FizzBuzz/jacegu/bin'
+let g:netrw_dirhist_2='/Users/jacegu/Desarrollo/general_12m12k/Marzo-FizzBuzz/jacegu'
+let g:netrw_dirhist_3='/Users/jacegu/Desarrollo/12meses12katas/roman_numerals'
+let g:netrw_dirhist_4='/Users/jacegu/Desarrollo/my_blog'
