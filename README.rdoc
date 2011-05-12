@@ -1,0 +1,2 @@
+= My vim configuration
+I use vim on Mac OS X in a GUI flavoured way: MacVim.
